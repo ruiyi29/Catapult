@@ -1,0 +1,5 @@
+activity_id,date_yyyymmdd,activity_name,video_file,video_start_unix,video_length_sec
+5d10d8aa-d6f6-45ec-919f-940cdfbc9580,20190119,Game 38 @ San Diego 1-19-19,01192019_SanDiegoGulls_vs_BakersfieldCondors__GAME 37 BAKERSFIELD PERIOD 2.mp4,154795666341,2388
+a124fafb-ea9f-4886-9a72-f6a8c466a32e,20221216,Pre-Game Warmup 20221216,12162022_BakersfieldCondors_vs_OntarioReign_WARMUPS.mp4,167124444666,961
+d14d229e-3fff-456b-b91b-bc1746fa7718,20230103,Practice 20230103,shots1_forehand.MOV,167277493608,19
+d14d229e-3fff-456b-b91b-bc1746fa7718,20230103,Practice 20230103,shots2_backhand.MOV,167277496429,11
